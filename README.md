@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I’m a Delhi based UI/UX Designer. Passionate about building useful, meaningful, and well-crafted User Interfaces.
 
 <!--
 **designhunt/designhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
